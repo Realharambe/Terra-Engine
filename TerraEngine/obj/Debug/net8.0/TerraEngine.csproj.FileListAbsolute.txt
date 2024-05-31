@@ -28,3 +28,4 @@ C:\Users\elija\OneDrive\Documents\Terra-Engine\TerraEngine\obj\Debug\net8.0\refi
 C:\Users\elija\OneDrive\Documents\Terra-Engine\TerraEngine\obj\Debug\net8.0\TerraEngine.pdb
 C:\Users\elija\OneDrive\Documents\Terra-Engine\TerraEngine\obj\Debug\net8.0\TerraEngine.genruntimeconfig.cache
 C:\Users\elija\OneDrive\Documents\Terra-Engine\TerraEngine\obj\Debug\net8.0\ref\TerraEngine.dll
+C:\Users\elija\OneDrive\Documents\Terra-Engine\TerraEngine\obj\Debug\net8.0\TerraEngine.sourcelink.json

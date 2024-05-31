@@ -223,7 +223,7 @@ namespace TerraEngine
         {
             var nativeWindowSettings = new NativeWindowSettings()
             {
-                Size = new Vector2i(1920, 1080),
+                Size = new Vector2i(800, 600),
                 Title = "Terra-Engine"
             };
 
